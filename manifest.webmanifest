@@ -1,7 +1,7 @@
 {
   "name": "PWA Geolocalización",
   "short_name": "GeoPWA",
-  "start_url": "/PWA-Geolocalizacion.io/",
+  "start_url": "/PWA-Geolocalizacion/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
@@ -9,12 +9,12 @@
     {
       "src": "icon-192.png",
       "sizes": "192x192",
-      "type": "/PWA-Geolocalizacion.io/image/png"
+      "type": "image/png"
     },
     {
       "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "/PWA-Geolocalizacion.io/image/png"
+      "type": "image/png"
     }
   ]
 }
